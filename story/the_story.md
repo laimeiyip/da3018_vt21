@@ -1,6 +1,6 @@
 # A story in DA3018
 
-Two tomatoes were crossing a road, when one of them suddenly got run over by a taxi cab.
+Once upon a time two tomatoes were crossing a road, when one of them suddenly got run over by a taxi cab.
 Then the other tomato said: Hey friend, catch up!
 Ketchup said: No, I can't. My legs are all mashed up now. Let's call sausage for help.
 Then the NY Cab Driver that drove over Ketchup said: "I'm drivin' 'ere!!"
@@ -15,4 +15,4 @@ But what would the cab driver do with the offered condiment without any food to 
 But the cab driver was long gone. Not willing to leave his saucy friend behind Tomato
 quickly scooped Ketchup into a rusty old bucket he found sitting next to the road.
 "Lets not let this keep us down!", said Tomato while skipping off the road,
-"Gurglegurgle", answered Ketchup.
+"Gurglegurgle", answered Ketchup. Feeling bad for his friend and trying to lighten the mood, the Tomato tried to come up with a joke, after some time he opened his mouth and said... 
