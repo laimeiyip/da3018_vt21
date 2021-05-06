@@ -37,7 +37,7 @@ public class CourseArray {
      * Input: none
      * Output: none
      * Side effect: sorts the 'courses' attribute
-     * Time complexity: O(n lg n), where n is the number of elements in the course array.
+     * Time complexity: O(n lg n) comparisons, where n is the number of elements in the course array.
      */
     public void mergeSort() {
         // To implement
